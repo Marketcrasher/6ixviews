@@ -1,2 +1,3 @@
-# 6ixviews First version coders flow team project (Incomplete)
-In the process of creating 6ixviews for a drone company that captures breath taking photos for clients ranging from houses/buildings, city shots, or even any cool photos you would like to have!
+# 6ixviews complete version (Team project)
+Authors: Julian Zarcone, Micheal Thompson, Winston Dien, Matthew Kattina
+Developed 6ixviews website for a client wanting to showcase his work, and break into the industry of drone photography!
